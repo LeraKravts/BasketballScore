@@ -71,3 +71,13 @@ h3 {
 
     
 }
+
+#start-again:hover {
+    background: white;
+    color: green;
+}
+
+.point:hover{
+    background: #EEE;
+    color: #1B244A;
+}
