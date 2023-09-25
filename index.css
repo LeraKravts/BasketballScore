@@ -25,10 +25,13 @@ h3 {
     font-style: normal;
     font-weight: 400;
     background: black;
+    
 }
 
 .section {
     text-align: center;
+   
+   
 }
 
 .score {
@@ -36,7 +39,12 @@ h3 {
     color: #F94F6D;
     background: #1B244A;
     padding: 20px 40px;
-    margin: 20px;
+    margin: 10px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .points {
